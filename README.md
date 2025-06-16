@@ -18,7 +18,7 @@ AgriNova is an AI-powered agri-advisory platform designed to help farmers make i
 
 - 🎥 **Pitch Video**  
   Watch our 2-minute idea walkthrough here:  
-  🔗 [Click to Watch](https://youtu.be/SPxLUwQzRE0) *(Replace `#` with the actual video link)*
+  🔗 [Click to Watch](https://youtu.be/SPxLUwQzRE0)
 
 ---
 
